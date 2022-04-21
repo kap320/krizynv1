@@ -15,10 +15,10 @@ gc1 = 'https://instagram.com/mhdfakri_'
 gc2 = 'https://www.youtube.com/c/HokenBeusz'
 gc3 = 'https://vt.tiktok.com/ZSeCJHbfA/'
 global.linkGC = ['https://chat.whatsapp.com/KTUF5TbtlWu4vOFnlDqCwg', ''] // ganti jadi group lu
-global.owner = ['62895328590064','62895327934887'] // Put your number here //owner eval
-global.kontak = ['62895328590064','62895327934887'] //Ketika ada yang ngetik #owner
+global.owner = ['6281391883354','6281391883354'] // Put your number here //owner eval
+global.kontak = ['6281391883354','6281391883354'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['62895328590064','62895327934887'] // Premium user has unlimited limit
+global.prems = ['6281391883354','6281391883354'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -61,21 +61,21 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `*Kalau udah dikasih, bilang apa?*`
-namakontak1 = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
-namakontak2 = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
+namakontak1 = 'ᴹᴿRiza「XYZ」 ×፝֟͜×'
+namakontak2 = 'Riza「XYZ」×͜×'
 
 //kasihcaption = `Kalau udah dikasih, bilang apa?`
 
 // Sticker WM
-global.packname = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×' // ganti aja
-global.author = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×' // ganti aja
+global.packname = 'ᴹᴿRiza「XYZ」×፝֟͜×' // ganti aja
+global.author = 'ᴹᴿRiza「XYZ」 ×፝֟͜×' // ganti aja
 
 //yyy
-'𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
-footer = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
-footer = '\𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
-namabot = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
-namalu = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
+'Riza「XYZ」×͜×' // Broadcast
+footer = 'Riza「XYZ」×͜×' // Broadcast
+footer = '\Riza「XYZ」×͜×'
+namabot = 'Riza「XYZ」×͜×'
+namalu = 'ᴹᴿRiza「XYZ」 ×፝֟͜×'
 
 
 // 
