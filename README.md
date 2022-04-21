@@ -5,8 +5,8 @@
 <p align="center">
 <a href="https://instagram.com/anime.purwokerto"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 <a href="https://wa.me/6281391883354"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://Bit.ly/3qCgkKv"><img src="https://img.shields.io/badge/YOUTUBE Krizyn-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/hokenbeusz" /><br>
-<a href="https://tiktok.com/@unfaedahkan"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
+<a href="https://Bit.ly/3qCgkKv"><img src="https://img.shields.io/badge/YOUTUBE Krizyn-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/Kapten.riza09" /><br>
+<a href="https://tiktok.com/@riza.edtz"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@riza.edtz" /></a>
 </p>
 
 ## ```DONASI```
@@ -78,3 +78,4 @@ node .
 ```
 
 ---------
+
